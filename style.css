@@ -7,6 +7,15 @@ html, body{
   margin: 0;
 }
 
+header{
+  padding: 10px 0 10px 0;
+  display: flex;
+  justify-content: center;
+  background-color: #2471A3;
+  text-align: center;
+  color: #f1d219;
+}
+
 .main-container{
   background-image: url('./images/crowd.jpg');
 }
